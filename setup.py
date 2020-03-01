@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 setup(
   name = 'pyOpenBCI',
   packages = find_packages(),
-  version = '0.13',
+  version = '0.14',
   license='MIT',
   description = 'A lib for controlling OpenBCI devices',
   long_description=long_description,
